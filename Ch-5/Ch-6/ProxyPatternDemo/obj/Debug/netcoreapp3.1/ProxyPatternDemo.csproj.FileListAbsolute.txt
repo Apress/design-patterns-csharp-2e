@@ -1,0 +1,11 @@
+E:\MyPrograms\DesignPatternsInCSharp2e\ProxyPatternsSolution\ProxyPatternDemo\bin\Debug\netcoreapp3.1\ProxyPatternDemo.exe
+E:\MyPrograms\DesignPatternsInCSharp2e\ProxyPatternsSolution\ProxyPatternDemo\bin\Debug\netcoreapp3.1\ProxyPatternDemo.deps.json
+E:\MyPrograms\DesignPatternsInCSharp2e\ProxyPatternsSolution\ProxyPatternDemo\bin\Debug\netcoreapp3.1\ProxyPatternDemo.runtimeconfig.json
+E:\MyPrograms\DesignPatternsInCSharp2e\ProxyPatternsSolution\ProxyPatternDemo\bin\Debug\netcoreapp3.1\ProxyPatternDemo.runtimeconfig.dev.json
+E:\MyPrograms\DesignPatternsInCSharp2e\ProxyPatternsSolution\ProxyPatternDemo\bin\Debug\netcoreapp3.1\ProxyPatternDemo.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\ProxyPatternsSolution\ProxyPatternDemo\bin\Debug\netcoreapp3.1\ProxyPatternDemo.pdb
+E:\MyPrograms\DesignPatternsInCSharp2e\ProxyPatternsSolution\ProxyPatternDemo\obj\Debug\netcoreapp3.1\ProxyPatternDemo.csprojAssemblyReference.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\ProxyPatternsSolution\ProxyPatternDemo\obj\Debug\netcoreapp3.1\ProxyPatternDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\ProxyPatternsSolution\ProxyPatternDemo\obj\Debug\netcoreapp3.1\ProxyPatternDemo.AssemblyInfo.cs
+E:\MyPrograms\DesignPatternsInCSharp2e\ProxyPatternsSolution\ProxyPatternDemo\obj\Debug\netcoreapp3.1\ProxyPatternDemo.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\ProxyPatternsSolution\ProxyPatternDemo\obj\Debug\netcoreapp3.1\ProxyPatternDemo.pdb

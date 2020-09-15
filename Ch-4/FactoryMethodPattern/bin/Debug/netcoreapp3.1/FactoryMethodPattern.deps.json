@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FactoryMethodPattern/1.0.0": {
+        "runtime": {
+          "FactoryMethodPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactoryMethodPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

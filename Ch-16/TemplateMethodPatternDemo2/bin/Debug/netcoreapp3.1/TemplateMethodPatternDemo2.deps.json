@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TemplateMethodPatternDemo2/1.0.0": {
+        "runtime": {
+          "TemplateMethodPatternDemo2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemplateMethodPatternDemo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

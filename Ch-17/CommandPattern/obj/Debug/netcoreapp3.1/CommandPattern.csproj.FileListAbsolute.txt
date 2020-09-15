@@ -1,0 +1,11 @@
+E:\MyPrograms\DesignPatternsInCSharp2e\CommandPatternSolution\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.exe
+E:\MyPrograms\DesignPatternsInCSharp2e\CommandPatternSolution\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+E:\MyPrograms\DesignPatternsInCSharp2e\CommandPatternSolution\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+E:\MyPrograms\DesignPatternsInCSharp2e\CommandPatternSolution\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+E:\MyPrograms\DesignPatternsInCSharp2e\CommandPatternSolution\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\CommandPatternSolution\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+E:\MyPrograms\DesignPatternsInCSharp2e\CommandPatternSolution\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csprojAssemblyReference.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\CommandPatternSolution\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\CommandPatternSolution\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs
+E:\MyPrograms\DesignPatternsInCSharp2e\CommandPatternSolution\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\CommandPatternSolution\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.pdb

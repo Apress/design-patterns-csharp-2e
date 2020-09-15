@@ -1,0 +1,11 @@
+E:\MyPrograms\DesignPatternsInCSharp2e\StatePatternSolution\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.exe
+E:\MyPrograms\DesignPatternsInCSharp2e\StatePatternSolution\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.deps.json
+E:\MyPrograms\DesignPatternsInCSharp2e\StatePatternSolution\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.runtimeconfig.json
+E:\MyPrograms\DesignPatternsInCSharp2e\StatePatternSolution\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.runtimeconfig.dev.json
+E:\MyPrograms\DesignPatternsInCSharp2e\StatePatternSolution\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\StatePatternSolution\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.pdb
+E:\MyPrograms\DesignPatternsInCSharp2e\StatePatternSolution\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.csprojAssemblyReference.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\StatePatternSolution\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfoInputs.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\StatePatternSolution\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfo.cs
+E:\MyPrograms\DesignPatternsInCSharp2e\StatePatternSolution\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\StatePatternSolution\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.pdb

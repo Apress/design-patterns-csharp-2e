@@ -1,0 +1,11 @@
+E:\MyPrograms\DesignPatternsInCSharp2e\AsynchronousProgrammingPatterns\UsingWebClient\bin\Debug\netcoreapp3.1\UsingWebClient.exe
+E:\MyPrograms\DesignPatternsInCSharp2e\AsynchronousProgrammingPatterns\UsingWebClient\bin\Debug\netcoreapp3.1\UsingWebClient.deps.json
+E:\MyPrograms\DesignPatternsInCSharp2e\AsynchronousProgrammingPatterns\UsingWebClient\bin\Debug\netcoreapp3.1\UsingWebClient.runtimeconfig.json
+E:\MyPrograms\DesignPatternsInCSharp2e\AsynchronousProgrammingPatterns\UsingWebClient\bin\Debug\netcoreapp3.1\UsingWebClient.runtimeconfig.dev.json
+E:\MyPrograms\DesignPatternsInCSharp2e\AsynchronousProgrammingPatterns\UsingWebClient\bin\Debug\netcoreapp3.1\UsingWebClient.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\AsynchronousProgrammingPatterns\UsingWebClient\bin\Debug\netcoreapp3.1\UsingWebClient.pdb
+E:\MyPrograms\DesignPatternsInCSharp2e\AsynchronousProgrammingPatterns\UsingWebClient\obj\Debug\netcoreapp3.1\UsingWebClient.csprojAssemblyReference.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\AsynchronousProgrammingPatterns\UsingWebClient\obj\Debug\netcoreapp3.1\UsingWebClient.AssemblyInfoInputs.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\AsynchronousProgrammingPatterns\UsingWebClient\obj\Debug\netcoreapp3.1\UsingWebClient.AssemblyInfo.cs
+E:\MyPrograms\DesignPatternsInCSharp2e\AsynchronousProgrammingPatterns\UsingWebClient\obj\Debug\netcoreapp3.1\UsingWebClient.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\AsynchronousProgrammingPatterns\UsingWebClient\obj\Debug\netcoreapp3.1\UsingWebClient.pdb

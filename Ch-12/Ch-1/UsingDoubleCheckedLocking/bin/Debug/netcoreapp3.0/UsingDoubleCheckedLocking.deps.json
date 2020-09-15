@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "UsingDoubleCheckedLocking/1.0.0": {
+        "runtime": {
+          "UsingDoubleCheckedLocking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsingDoubleCheckedLocking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

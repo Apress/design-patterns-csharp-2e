@@ -1,0 +1,11 @@
+E:\MyPrograms\DesignPatternsInCSharp2e\MementoPatternSolution\MementoPattern\bin\Debug\netcoreapp3.1\MementoPattern.exe
+E:\MyPrograms\DesignPatternsInCSharp2e\MementoPatternSolution\MementoPattern\bin\Debug\netcoreapp3.1\MementoPattern.deps.json
+E:\MyPrograms\DesignPatternsInCSharp2e\MementoPatternSolution\MementoPattern\bin\Debug\netcoreapp3.1\MementoPattern.runtimeconfig.json
+E:\MyPrograms\DesignPatternsInCSharp2e\MementoPatternSolution\MementoPattern\bin\Debug\netcoreapp3.1\MementoPattern.runtimeconfig.dev.json
+E:\MyPrograms\DesignPatternsInCSharp2e\MementoPatternSolution\MementoPattern\bin\Debug\netcoreapp3.1\MementoPattern.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\MementoPatternSolution\MementoPattern\bin\Debug\netcoreapp3.1\MementoPattern.pdb
+E:\MyPrograms\DesignPatternsInCSharp2e\MementoPatternSolution\MementoPattern\obj\Debug\netcoreapp3.1\MementoPattern.AssemblyInfoInputs.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\MementoPatternSolution\MementoPattern\obj\Debug\netcoreapp3.1\MementoPattern.AssemblyInfo.cs
+E:\MyPrograms\DesignPatternsInCSharp2e\MementoPatternSolution\MementoPattern\obj\Debug\netcoreapp3.1\MementoPattern.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\MementoPatternSolution\MementoPattern\obj\Debug\netcoreapp3.1\MementoPattern.pdb
+E:\MyPrograms\DesignPatternsInCSharp2e\MementoPatternSolution\MementoPattern\obj\Debug\netcoreapp3.1\MementoPattern.csprojAssemblyReference.cache

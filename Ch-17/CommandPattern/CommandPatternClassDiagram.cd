@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CommandPattern.Game">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAg=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.GameStartCommand" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.75" />
+    <AssociationLine Name="game" Type="CommandPattern.Game" ManuallyRouted="true">
+      <Path>
+        <Point X="5.594" Y="3.5" />
+        <Point X="5.948" Y="3.5" />
+        <Point X="5.948" Y="1.566" />
+        <Point X="6.5" Y="1.566" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="game" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommandPattern.GameStopCommand" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.75" />
+    <AssociationLine Name="game" Type="CommandPattern.Game" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.812" Y="3.5" />
+        <Point X="8.847" Y="3.43" />
+        <Point X="8.847" Y="1.566" />
+        <Point X="8" Y="1.566" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="game" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommandPattern.RemoteControl">
+    <Position X="1.75" Y="3.5" Width="2" />
+    <AssociationLine Name="commandToBePerformed" Type="CommandPattern.ICommand">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.025" Y="0.186" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="lastCommandPerformed" Type="CommandPattern.ICommand">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.746" Y="0.179" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AIAAAAgAAAAAAAAAAAAAAAQAAIAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="commandToBePerformed" />
+      <Field Name="lastCommandPerformed" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CommandPattern.Client">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CommandPattern.ICommand">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
