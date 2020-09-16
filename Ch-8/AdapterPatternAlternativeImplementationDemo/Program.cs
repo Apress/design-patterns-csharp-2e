@@ -52,7 +52,7 @@ namespace AdapterPatternAlternativeImplementationDemo
             Console.WriteLine("The rectangle.AboutMe() says:");
             rectangle.AboutMe();
             ITriangle triangle = new Triangle();
-            Console.WriteLine("The triangle.Triangle() says:");
+            Console.WriteLine("The triangle.AboutTriangle() says:");
             triangle.AboutTriangle();
 
             Console.WriteLine("\nNow using the adapter.");
