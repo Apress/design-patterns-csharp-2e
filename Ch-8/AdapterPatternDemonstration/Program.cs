@@ -100,8 +100,8 @@ namespace AdapterPatternDemonstration
             Console.ReadKey();
         }
         /* 
-         * GetArea(RectInterface r) method  does not know 
-         * that through TriangleAdapter, it is getting a 
+         * The following method does not know 
+         * that through the adapter,it can actually process a 
          * Triangle instead of a Rectangle.
          */
         static double GetDetails(IRectangle rectangle)
