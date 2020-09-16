@@ -68,7 +68,7 @@ namespace MementoPatternDemo2
 
             //Undo's
             //Roll back starts...            
-            Console.WriteLine("\nPeforming undo's now.");
+            Console.WriteLine("\nPerforming undo's now.");
             for (int i = savedStates.Count; i > 0; i--)
             {
                 //Get a restore point
@@ -76,7 +76,7 @@ namespace MementoPatternDemo2
                 originatorObject.RestoreMemento(currentMemento);
             }
             //Redo's
-            Console.WriteLine("\nPeforming redo's now.");
+            Console.WriteLine("\nPerforming redo's now.");
             for (int i = 1; i < savedStates.Count; i++)
             {
                 currentMemento = savedStates[i];

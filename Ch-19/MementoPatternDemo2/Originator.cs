@@ -49,7 +49,8 @@ namespace MementoPatternDemo2
         public void RestoreMemento(Memento restoreMemento)
         {
             this.state = restoreMemento.State;
-            Console.WriteLine("Restored to state : {0}", state);
+            //Console.WriteLine("Restored to state : {0}", state);
+            Console.WriteLine($"Restored to state : {state}");
         }
         /// <summary>
         /// Memento class
