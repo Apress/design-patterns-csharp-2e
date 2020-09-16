@@ -74,7 +74,7 @@ namespace MementoPattern
         public void RestoreMemento(Memento restoreMemento)
         {
             this.state = restoreMemento.State;
-            Console.WriteLine("Restored to state : {0}", state);
+        Console.WriteLine($"Restored to state : {state}");    
         }
     }
 
@@ -145,7 +145,7 @@ namespace MementoPattern
 
             //Undo's
             //Roll back starts...            
-            Console.WriteLine("\nPeforming undo's now.");
+            Console.WriteLine("\nPerforming undo's now.");
             for (int i = savedStates.Count; i > 0; i--)
             {
                 //Get a restore point
@@ -153,7 +153,7 @@ namespace MementoPattern
                 originatorObject.RestoreMemento(currentMemento);
             }
             //Redo's
-            Console.WriteLine("\nPeforming redo's now.");
+            Console.WriteLine("\nPerforming redo's now.");
             for (int i = 1; i < savedStates.Count; i++)
             {
                 currentMemento = savedStates[i];
