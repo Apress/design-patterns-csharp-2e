@@ -71,7 +71,7 @@ namespace TemplateMethodPattern
             Console.WriteLine("3.Digital Logic and Circuit Theory");
         }
         //Using the hook method now.
-        //Additionalpapers are not needed for Electronics.
+        //Additional paper is not needed for Electronics.
         public override bool IsAdditionalPaperNeeded()
         {
             return false;
