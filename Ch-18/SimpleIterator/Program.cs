@@ -47,7 +47,7 @@ namespace SimpleIterator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("***Iterator Pattern.A simple demonstration using built-in contructs.***");
+            Console.WriteLine("***Iterator Pattern.A simple demonstration using built-in constructs.***");
             Arts artsPapers = new Arts();
             Console.WriteLine("\nArts subjects are as follows:");
             //Consume values from the collection's GetEnumerator()
