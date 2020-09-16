@@ -5,7 +5,7 @@ namespace ObserverPattern
 {
     interface IObserver
     {
-        void Update(ICelebrity subject);
+        void Update(ICelebrity celeb);
     }
     class ObserverType1 : IObserver
     {
