@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace AdapterPatternDemonstration
 {
@@ -111,3 +111,4 @@ namespace AdapterPatternDemonstration
         }
     }
 }
+
