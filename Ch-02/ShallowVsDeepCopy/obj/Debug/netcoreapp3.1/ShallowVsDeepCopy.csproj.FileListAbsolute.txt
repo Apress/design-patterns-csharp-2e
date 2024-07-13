@@ -1,0 +1,11 @@
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\ShallowVsDeepCopy\bin\Debug\netcoreapp3.1\ShallowVsDeepCopy.exe
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\ShallowVsDeepCopy\bin\Debug\netcoreapp3.1\ShallowVsDeepCopy.deps.json
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\ShallowVsDeepCopy\bin\Debug\netcoreapp3.1\ShallowVsDeepCopy.runtimeconfig.json
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\ShallowVsDeepCopy\bin\Debug\netcoreapp3.1\ShallowVsDeepCopy.runtimeconfig.dev.json
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\ShallowVsDeepCopy\bin\Debug\netcoreapp3.1\ShallowVsDeepCopy.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\ShallowVsDeepCopy\bin\Debug\netcoreapp3.1\ShallowVsDeepCopy.pdb
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\ShallowVsDeepCopy\obj\Debug\netcoreapp3.1\ShallowVsDeepCopy.csprojAssemblyReference.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\ShallowVsDeepCopy\obj\Debug\netcoreapp3.1\ShallowVsDeepCopy.AssemblyInfoInputs.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\ShallowVsDeepCopy\obj\Debug\netcoreapp3.1\ShallowVsDeepCopy.AssemblyInfo.cs
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\ShallowVsDeepCopy\obj\Debug\netcoreapp3.1\ShallowVsDeepCopy.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\ShallowVsDeepCopy\obj\Debug\netcoreapp3.1\ShallowVsDeepCopy.pdb

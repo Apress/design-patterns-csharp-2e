@@ -1,0 +1,10 @@
+E:\MyPrograms\DesignPatternsInCSharp2e\SingletonPatternQA\bin\Debug\netcoreapp3.1\SingletonPatternQA.exe
+E:\MyPrograms\DesignPatternsInCSharp2e\SingletonPatternQA\bin\Debug\netcoreapp3.1\SingletonPatternQA.deps.json
+E:\MyPrograms\DesignPatternsInCSharp2e\SingletonPatternQA\bin\Debug\netcoreapp3.1\SingletonPatternQA.runtimeconfig.json
+E:\MyPrograms\DesignPatternsInCSharp2e\SingletonPatternQA\bin\Debug\netcoreapp3.1\SingletonPatternQA.runtimeconfig.dev.json
+E:\MyPrograms\DesignPatternsInCSharp2e\SingletonPatternQA\bin\Debug\netcoreapp3.1\SingletonPatternQA.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\SingletonPatternQA\bin\Debug\netcoreapp3.1\SingletonPatternQA.pdb
+E:\MyPrograms\DesignPatternsInCSharp2e\SingletonPatternQA\obj\Debug\netcoreapp3.1\SingletonPatternQA.AssemblyInfoInputs.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\SingletonPatternQA\obj\Debug\netcoreapp3.1\SingletonPatternQA.AssemblyInfo.cs
+E:\MyPrograms\DesignPatternsInCSharp2e\SingletonPatternQA\obj\Debug\netcoreapp3.1\SingletonPatternQA.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\SingletonPatternQA\obj\Debug\netcoreapp3.1\SingletonPatternQA.pdb

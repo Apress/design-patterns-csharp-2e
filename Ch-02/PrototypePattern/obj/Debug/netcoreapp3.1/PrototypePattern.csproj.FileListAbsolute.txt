@@ -1,0 +1,11 @@
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.exe
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.deps.json
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.runtimeconfig.json
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.runtimeconfig.dev.json
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.pdb
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csprojAssemblyReference.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfoInputs.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfo.cs
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\PrototypePatternSolution\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.pdb

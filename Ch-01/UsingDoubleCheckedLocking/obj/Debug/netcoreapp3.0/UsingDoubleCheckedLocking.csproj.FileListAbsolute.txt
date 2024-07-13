@@ -1,0 +1,11 @@
+E:\MyPrograms\DesignPatternsInCSharp2e\UsingDoubleCheckedLocking\bin\Debug\netcoreapp3.0\UsingDoubleCheckedLocking.exe
+E:\MyPrograms\DesignPatternsInCSharp2e\UsingDoubleCheckedLocking\bin\Debug\netcoreapp3.0\UsingDoubleCheckedLocking.deps.json
+E:\MyPrograms\DesignPatternsInCSharp2e\UsingDoubleCheckedLocking\bin\Debug\netcoreapp3.0\UsingDoubleCheckedLocking.runtimeconfig.json
+E:\MyPrograms\DesignPatternsInCSharp2e\UsingDoubleCheckedLocking\bin\Debug\netcoreapp3.0\UsingDoubleCheckedLocking.runtimeconfig.dev.json
+E:\MyPrograms\DesignPatternsInCSharp2e\UsingDoubleCheckedLocking\bin\Debug\netcoreapp3.0\UsingDoubleCheckedLocking.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\UsingDoubleCheckedLocking\bin\Debug\netcoreapp3.0\UsingDoubleCheckedLocking.pdb
+E:\MyPrograms\DesignPatternsInCSharp2e\UsingDoubleCheckedLocking\obj\Debug\netcoreapp3.0\UsingDoubleCheckedLocking.csprojAssemblyReference.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\UsingDoubleCheckedLocking\obj\Debug\netcoreapp3.0\UsingDoubleCheckedLocking.AssemblyInfoInputs.cache
+E:\MyPrograms\DesignPatternsInCSharp2e\UsingDoubleCheckedLocking\obj\Debug\netcoreapp3.0\UsingDoubleCheckedLocking.AssemblyInfo.cs
+E:\MyPrograms\DesignPatternsInCSharp2e\UsingDoubleCheckedLocking\obj\Debug\netcoreapp3.0\UsingDoubleCheckedLocking.dll
+E:\MyPrograms\DesignPatternsInCSharp2e\UsingDoubleCheckedLocking\obj\Debug\netcoreapp3.0\UsingDoubleCheckedLocking.pdb
